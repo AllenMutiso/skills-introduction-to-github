@@ -234,6 +234,7 @@ Question 14: Explain the concept of "Layer 2 Scaling Solutions" for blockchains.
 "Layer 2 Scaling Solutions" are protocols built on top of an existing blockchain to improve its scalability and transaction speed. They move transactions off the main blockchain, reducing congestion and fees.
 
 ASSIGNMENT DAY 5;
+
 Question Summary: What is technical writing?
 Response: Technical writing is the process of creating clear, concise, and structured content that explains complex information. It’s used in manuals, guides, FAQs, and other documents to help users understand products, processes, or systems.
 
